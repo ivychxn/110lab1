@@ -1,4 +1,6 @@
 # my name is ivy and i like sharks
+for programming info scroll down or just click [here](https://github.com/ivychxn/110lab1/blob/new-branch/index.md#anyways-i-also-code-and-make-computers-go-beep-boop)
+
 i have **a lot** of *plushie* sharks
 
 check out this c00l comic
