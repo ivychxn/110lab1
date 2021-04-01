@@ -1,6 +1,9 @@
 # my name is ivy and i like sharks
 i have **a lot** of *plushie* sharks
 
+check out this c00l comic
+![shark comic](https://i.imgur.com/QtfJDxO_d.webp?maxwidth=520&shape=thumb&fidelity=high)
+
 ## why sharks?
 ~~lemme ask u a better question why not sharks~~
 
@@ -33,6 +36,10 @@ if you wanna see my gitignore file look [here](.gitignore)
 - i like to sleep
 
 # goals for eventually
-1. turn in lab
-2. sleep
-3. wake up
+- [x] beat the hard level i'm currently playing on bloons tower defense
+- [] turn in lab
+- [] sleep
+- [] wake up
+
+### self promo
+if u wanna add me on [linkedin](https://www.linkedin.com/in/ivychxn/), bet
