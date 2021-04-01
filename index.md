@@ -36,9 +36,9 @@ if you wanna see my gitignore file look [here](.gitignore)
 - i like to sleep
 
 # goals for eventually
- [x] beat the hard level i'm currently playing on bloons tower defense
- [ ] sleep
- [ ] wake up
+- [x] beat the hard level i'm currently playing on bloons tower defense
+- [ ] sleep
+- [ ] wake up
 
 ### self promo
 if u wanna add me on [linkedin](https://www.linkedin.com/in/ivychxn/), bet
