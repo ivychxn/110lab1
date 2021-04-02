@@ -37,6 +37,11 @@ if you wanna see my gitignore file look [here](.gitignore)
 - it took me like, 3 hours to do this lab because i was playing bloons tower defense
 - i like to sleep
 
+## my top boba drinks
+1. jasmine gmt w boba less sweet less ice
+2. strawberry sunset ez sweet at 7leaves
+3. wintermelon mt w lychee jelly 50% sweet less ice
+
 # goals for eventually
 - [x] beat the hard level i'm currently playing on bloons tower defense
 - [ ] sleep
